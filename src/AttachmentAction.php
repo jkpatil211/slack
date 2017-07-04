@@ -222,7 +222,7 @@ class AttachmentAction
             'style' => $this->getStyle(),
             'type' => $this->getType(),
             'value' => $this->getValue(),
-            'confirm' => $this->getConfirm()->toArray(),
+            'confirm' => $this->getConfirm(),
         ];
     }
 }
