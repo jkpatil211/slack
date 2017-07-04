@@ -1,12 +1,12 @@
 {
-    "name": "maknz/slack",
+    "name": "jkpatil211/slack",
     "description": "A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.",
     "keywords": ["laravel", "slack"],
     "license": "BSD-2-Clause",
     "authors": [
         {
-            "name": "maknz",
-            "email": "github@mak.geek.nz"
+            "name": "jaykumar",
+            "email": "jkpatil211@gmail.com"
         }
     ],
     "require": {
@@ -19,12 +19,12 @@
         "mockery/mockery": "0.9.*"
     },
     "suggest": {
-        "maknz/slack-laravel": "Required for Laravel support",
+        "jkpatil211/slack-laravel": "Required for Laravel support",
         "nexylan/slack-bundle": "Required for Symfony bundle support"
     },
     "autoload": {
         "psr-4": {
-            "Maknz\\Slack\\": "src/"
+            "Jkpatil211\\Slack\\": "src/"
         }
     },
     "minimum-stability": "stable"
