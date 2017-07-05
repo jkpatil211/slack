@@ -1,6 +1,6 @@
 <?php
 
-namespace Maknz\Slack;
+namespace Jkpatil211\Slack;
 
 class AttachmentField
 {
